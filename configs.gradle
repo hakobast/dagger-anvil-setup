@@ -1,0 +1,11 @@
+ext.configs = [
+        'applicationId' : 'anvil.test.project',
+        'compileSdkVersion': 31,
+        'minSdkVersion'    : 21,
+        'targetSdkVersion' : 31,
+        'buildToolsVersion': '30.0.2',
+        'javaVersion': JavaVersion.VERSION_1_8,
+        'debuggable' : false,
+        'minifyEnabledDebug' : false,
+        'minifyEnabledRelease' : true,
+]

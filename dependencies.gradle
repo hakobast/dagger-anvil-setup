@@ -1,0 +1,8 @@
+ext.versions = [
+        'android_gradle' : '4.1.1',
+        'gradle_versions': '0.27.0',
+
+        'kotlin'         : '1.5.31',
+        'anvil'          : '2.3.10',
+        'dagger'         : '2.40.2'
+]
